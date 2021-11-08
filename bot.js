@@ -1,8 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
-
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-
 WhatsAsena - Yusuf Usta
 */
 
@@ -90,7 +88,11 @@ async function whatsAsena () {
     clh.pay = ddd
     const WhatsAsenaCN = new WAConnection();
     const Session = new StringSession();
-    WhatsAsenaCN.version = [2, 2126, 14]
+    try {
+      WhatsAsenaCN.version = [3, 3234, 9]
+    } catch {
+      console.log(`passed v${WhatsAsenaCN.version}`)
+    }
     WhatsAsenaCN.setMaxListeners(0);
     var proxyAgent_var = ''
     if (config.PROXY.includes('https') || config.PROXY.includes('http')) {
@@ -234,7 +236,6 @@ async function whatsAsena () {
     WhatsAsenaCN.on('connecting', async () => {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
-
 ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
     });
     WhatsAsenaCN.on('open', async () => {
