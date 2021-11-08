@@ -61,12 +61,12 @@ the user is responsible.
 
 <div align="center">
 
-  ![HYPER-X Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
+  ![HYPER-X Logo](https://i.ibb.co/LZtwbZT/Whats-App-Image-2021-11-08-at-10-49-49.jpg)
 
 <!---
 .mp4 version available on local file
 -->
-
+S
   <h1>🐺 HYPER-X</h1>
 </div>
 <p align="center">
