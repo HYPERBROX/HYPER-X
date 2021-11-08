@@ -101,7 +101,7 @@ the user is responsible.
 
 ### Simple Method 
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/HYPERBROX/HYPER-X)](https://repl.it/@phaticusthiccy/HYPERBROX/HYPER-X-QR)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPERBROX/HYPER-X)
 
