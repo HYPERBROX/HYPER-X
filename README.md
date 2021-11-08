@@ -61,7 +61,7 @@ the user is responsible.
 
 <div align="center">
 
-  ![HYPER-X Logo](https://i.ibb.co/LZtwbZT/Whats-App-Image-2021-11-08-at-10-49-49.jpg)
+  ![HYPER-X Logo](https://i.ibb.co/n0c9mRQ/hyper-x-logo.jpg)
 
 <!---
 .mp4 version available on local file
