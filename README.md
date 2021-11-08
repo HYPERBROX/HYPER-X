@@ -66,7 +66,7 @@ the user is responsible.
 <!---
 .mp4 version available on local file
 -->
-  <h1>🐺 HYPER-X</h1>
+  <h1>🎭 HYPER-X</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
