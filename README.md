@@ -66,7 +66,6 @@ the user is responsible.
 <!---
 .mp4 version available on local file
 -->
-S
   <h1>🐺 HYPER-X</h1>
 </div>
 <p align="center">
